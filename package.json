@@ -1,23 +1,23 @@
 {
-  "name": "BMW-XMD",
+  "name": "KEVOO-MD",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "KEVOO.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
+    "KEVOO-MD": "pm2 start KEVOO.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "BMW-Md",
+    "KEVOO-Md",
     "whatsapp",
     "whatsapp-bot",
-    "ibrahimadams"
+    "Kévøøtech"
   ],
-  "author": "ibrahimaitech",
+  "author": "Kévøøtech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
