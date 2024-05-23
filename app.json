@@ -1,9 +1,9 @@
 {
-  "name":"BMW-X5MD",
-  "description":"bot whatsapp développé by Ibrahim adams",
+  "name":"KEVOO-MD",
+  "description":"bot whatsapp développé by Kévøø tech",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
-  "repository":"https://github.com/ibrahimaitech/BMW-MD",
+  "logo":"https://telegra.ph/file/88ad273e040f262fe69ad.jpg",
+  "repository":"https://github.com/kevoomedia/K-v--Md.git",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-XMD",
+      "value":"KEVOO-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/ca5688b76af3e964f963b.jpg",
+      "value":"https://telegra.ph/file/404fdaacd6d345d368155.jpg",
       "required":false
        
      },
@@ -74,20 +74,20 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
+    "value": "Kévøø😜"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "+254739937062,254710772666"
+    "value": "+255712682559,255694854739"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "5"
   },
   "STARTING_BOT_MESSAGE":
   {
